@@ -40,3 +40,4 @@ or
 ```
 pytest
 ```
+Atualização feita pelo Evaldo na branch feature-ajustes.
