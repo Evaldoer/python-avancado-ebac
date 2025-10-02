@@ -41,3 +41,5 @@ or
 pytest
 ```
 Atualização feita pelo Evaldo na branch feature-ajustes.
+
+<!-- Linha adicionada para abrir Pull Request -->
